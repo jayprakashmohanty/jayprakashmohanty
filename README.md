@@ -9,8 +9,6 @@ I am an experienced Java backend developer proficient in Spring Boot framework a
 
 📫 Database : SQL , Postgresql 
 
-📫 Frontend Development: Angular 14
-
 📫 Other Tools : AWS Cloud RabbitMQ Docker Kubernetes Git Keycloak
 
 📫 Courseworks : SOLID Principles OOPs Design Patterns Data structure & Alogorithms Microservice Architecture
