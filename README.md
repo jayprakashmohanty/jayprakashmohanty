@@ -13,4 +13,3 @@ I am an experienced Java backend developer proficient in Spring Boot framework a
 
 📫 Courseworks : SOLID Principles OOPs Design Patterns Data structure & Alogorithms Microservice Architecture
 
-📫 Certification : AWS Certified Cloud
