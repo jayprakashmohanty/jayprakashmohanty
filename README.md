@@ -5,9 +5,9 @@ I am an experienced Java backend developer proficient in Spring Boot framework a
 
 📫 Languages: Java
 
-📫 Backend Development: Spring Springboot Microservices Architecture Junit Spring Data JPA Spring Security OAuth2 Spring Cloud Gateway
+📫 Backend Development: Spring,Springboot, MicroservicesArchitecture ,Junit, Spring Data JPA, Spring Security, OAuth2 ,Spring Cloud Gateway
 
-📫 Database : SQL 
+📫 Database : SQL,postgresql
 
 📫 Other Tools : AWS Cloud RabbitMQ Docker Kubernetes Git Keycloak
 
